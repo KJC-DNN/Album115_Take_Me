@@ -14,6 +14,6 @@ Seven prayer letters of longing to be taken, accepted, and kept. Mercy, beauty, 
 7. Abba, I Love You
 
 # Published:
-GitHub:
-Archive: album-115-take-me-main-cover
-Zenodo: https://doi.org/10.5281/zenodo.24154121
+1. GitHub:
+2. Archive: album-115-take-me-main-cover
+3. Zenodo: https://doi.org/10.5281/zenodo.24154121
