@@ -17,3 +17,11 @@ Seven prayer letters of longing to be taken, accepted, and kept. Mercy, beauty, 
 1. GitHub: https://github.com/KJC-DNN/Album115_Take_Me/releases/tag/115.0.0
 2. Archive: album-115-take-me-main-cover
 3. Zenodo: https://doi.org/10.5281/zenodo.24154121
+
+# Instrumental
+## Published:
+1. GitHub: https://github.com/KJC-DNN/Album115_Instrumentals_Take_Me/releases/tag/115.0.0
+2. Archive: album-115-instrumentals-take-me-cover
+3. Zenodo: https://doi.org/10.5281/zenodo.24185279
+
+All Glory to Lord Jesus Christ.
